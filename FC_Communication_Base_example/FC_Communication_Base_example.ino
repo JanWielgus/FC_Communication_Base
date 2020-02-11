@@ -1,6 +1,19 @@
 // Author: Jan Wielgus
 // Date: 30.01.2019
 //
+//
+//
+//
+// This library is based on the work of Christopher Baker
+// and his PacketSerial library.
+// https://github.com/bakercp/PacketSerial
+//
+//
+//
+//
+//
+
+
 
 #include "FC_Communication_Base.h"
 
